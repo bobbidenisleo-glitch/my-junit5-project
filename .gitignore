@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cat > .gitignore << EOF
+cat > .gitignore << EOFcat > .gitignore << EOFcat > .gitignore << EOFcat > .gitignore << EOFcat > .gitignore << EOF
+cat > .gitignore << EOF
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# Mac
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Temp files
+tmp/
+temp/
